@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: "Poppins";
+}
+
+.swiper-button-prev:after,
+.swiper-button-next:after {
+  display: none;
+}
+
+.swiper-pagination-bullet {
+  width:72px !important;
+  height: 2px !important;
+  background: #4361EE !important;
+  opacity: 0.3 !important;
+}
+
+.swiper-pagination-bullet-active {
+  opacity: 1 !important;
+}
+
+@media (max-width: 768px) {
+  .swiper-pagination-bullet {
+    width: 50px !important;
+    height: 2px !important;
+  }
+}
+
+.swiper {
+  padding-bottom: 30px !important;
+}
+
+
+.property-swiper {
+  padding-bottom: 50px !important;
+}
+
+.property-swiper .swiper-button-next,
+.property-swiper .swiper-button-prev {
+  color: #4361EE;
+  background: white;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.property-swiper .swiper-button-next:after,
+.property-swiper .swiper-button-prev:after {
+  font-size: 18px;
+}
+
+.property-swiper .swiper-pagination-bullet {
+  width: 8px;
+  height: 8px;
+  background: #4361EE;
+  opacity: 0.3;
+}
+
+.property-swiper .swiper-pagination-bullet-active {
+  opacity: 1;
+}
+
+.blog-swiper .swiper-pagination {
+  @media (max-width: 768px) {
+    display: none !important;
+  }
+}
