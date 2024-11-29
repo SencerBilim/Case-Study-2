@@ -32,8 +32,7 @@ User ratings
 Profile images
 
 ```bash
-git clone https://github.com/SencerBilim/Case-Study-1.git
-cd Case-Study-1
+git clone https://github.com/SencerBilim/Case-Study-2.git
 npm install
 npm run dev
 ```
