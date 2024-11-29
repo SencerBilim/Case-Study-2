@@ -46,7 +46,7 @@ Swiper.js
 React Icons
 
 Run Locally
-bashCopygit clone [repository-url]
+bashCopygit clone [https://github.com/SencerBilim/Case-Study-2.git]
 npm install
 npm run dev
 
