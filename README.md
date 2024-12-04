@@ -1,8 +1,59 @@
-# React + Vite
+Real Estate Landing Page - React & Tailwind Frontend Case Study
+Overview
+Modern real estate website landing page built with React and Tailwind CSS. Features responsive design optimized for desktop and mobile views. Made in 2 days.
+🚀 Live Demo Experience the website live: https://sb-case-study-2.vercel.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛠️ Key Features
 
-Currently, two official plugins are available:
+Responsive navbar with mobile menu
+Hero section with property search
+Property listings with custom Swiper.js integration
+Testimonials slider
+Statistics display
+Contact form
+Mobile-first footer
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technical Highlights
+Sliders
+
+Property Slider: Custom Swiper.js implementation with:
+
+Navigation arrows
+Card layout
+Property details
+Status tags
+
+
+Testimonials: Dynamic testimonial carousel featuring:
+
+Custom navigation
+Quote display
+User ratings
+Profile images
+
+```bash
+git clone https://github.com/SencerBilim/Case-Study-2.git
+npm install
+npm run dev
+```
+
+Tech Stack
+
+React.js
+Tailwind CSS
+Swiper.js
+React Icons
+
+Run Locally
+bashCopygit clone [https://github.com/SencerBilim/Case-Study-2.git]
+npm install
+npm run dev
+
+### 🖼️ Screenshot  
+![sb-case-study-2](https://github.com/user-attachments/assets/d94d7cb7-5732-4fd6-96fb-078ef0766843)
+
+📧 Contact!
+Feel free to reach out for any inquiries:
+
+Email: sencer.bilim@gmail.com
+LinkedIn: www.linkedin.com/in/sencer-bilim
