@@ -71,7 +71,7 @@ const Testimonials = () => {
             >
               {testimonials.map((testimonial, index) => (
                 <SwiperSlide key={index} className='p-6'>
-                  <div className="bg-white flex flex-col justify-between rounded-3xl pt-[100px] p-8 h-[350px] shadow-[0_4px_30px_rgba(0,0,0,0.2)]">
+                  <div className="bg-white flex flex-col justify-between rounded-3xl pt-[100px] p-8 min-h-[300px] shadow-[0_4px_30px_rgba(0,0,0,0.2)]">
                     <img src="/images/quote.png" alt="quote" className="absolute left-12 top-12" />
                     <p className="text-black-text text-base font-medium lg:text-lg mb-8">{testimonial.text}</p>
                     <div className="flex items-center gap-4">

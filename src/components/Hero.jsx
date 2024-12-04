@@ -12,7 +12,7 @@ const Hero = () => {
     '/images/house1.jpg',
     '/images/house2.jpeg',
     '/images/house3.jpg',
-    '/images/house4.jpg'
+    '/images/house8.jpg'
   ];
 
   return (

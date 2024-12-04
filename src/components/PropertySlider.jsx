@@ -111,12 +111,12 @@ const PropertySlider = () => {
     },
     // For Rent Properties
     {
-      price: 99999999,
-      title: 'Baykar N. T. Center',
+      price: 3525,
+      title: 'Apartment House',
       address: '456 City Center, CA 90012',
-      beds: 256,
-      baths: 180,
-      image: '/images/house4.jpg',
+      beds: 2,
+      baths: 1,
+      image: '/images/house8.jpg',
       tag: 'For Rent',
       type: 'rent'
     },
