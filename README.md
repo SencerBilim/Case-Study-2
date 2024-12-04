@@ -44,10 +44,6 @@ Tailwind CSS
 Swiper.js
 React Icons
 
-Run Locally
-bashCopygit clone [https://github.com/SencerBilim/Case-Study-2.git]
-npm install
-npm run dev
 
 ### 🖼️ Screenshot  
 ![sb-case-study-2](https://github.com/user-attachments/assets/d94d7cb7-5732-4fd6-96fb-078ef0766843)
